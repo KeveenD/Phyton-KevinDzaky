@@ -1,5 +1,6 @@
 import random
 
+# Menerima Pilihan dari User Antara Batu, Kertas, Gunting
 def get_choices():
   player_choice = input("Masukkan pilihanmu (batu, kertas, gunting): ")
   options = ["batu", "kertas", "gunting"]
