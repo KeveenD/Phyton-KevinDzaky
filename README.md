@@ -1,2 +1,2 @@
-# Phyton-KevinDzaky
+# Batu Gunting Kertas
 My phyton project from what I learned.
