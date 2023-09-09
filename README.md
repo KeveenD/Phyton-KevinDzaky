@@ -1,2 +1,2 @@
 # Batu Gunting Kertas
-My phyton project from what I learned.
+Program sederhana yang berisi permainan sederhana batu, gunting, kertas.
