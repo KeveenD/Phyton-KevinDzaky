@@ -33,6 +33,7 @@ def check_win(player, computer):
     else:
       return "Gunting dihancurkan batu, kamu kalah!"
   
+# Variabel yang dikeluarkan User dan Komputer serta hasilnya
 choices = get_choices()
 result = check_win(choices["player"], choices["computer"])
 print(result)
