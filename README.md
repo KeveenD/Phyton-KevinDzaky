@@ -1,2 +1,2 @@
 # Batu Gunting Kertas
-Program sederhana yang berisi permainan sederhana batu, gunting, kertas.
+Rock, Paper, Scissors in Bahasa. My first simple phyton project from what I learned from YouTube.
