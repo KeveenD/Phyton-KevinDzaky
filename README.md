@@ -1,2 +1,2 @@
 # Batu Gunting Kertas
-Rock, Paper, Scissors in Bahasa. My first simple phyton project from what I learned from YouTube.
+Rock, Paper, Scissors in Bahasa. My first simple python project from what I learned from YouTube.
